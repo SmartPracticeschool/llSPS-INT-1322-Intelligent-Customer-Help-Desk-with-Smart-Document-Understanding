@@ -8,5 +8,5 @@ In this project, there will be another option. If the customer question is about
 In Watson Discovery I have added ecobee3_userguide.
 
 Node-Red Dashboard link after deploying : https://node-red-gflug.mybluemix.net/ui
-
+YouTube link: https://youtu.be/X79ycTEM-A4
 
